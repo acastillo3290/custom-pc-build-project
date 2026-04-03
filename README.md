@@ -46,6 +46,6 @@ Seeing everything come together after the initial issues was honestly the most r
 
 I successfully built a fully functional desktop PC and gained real hands-on experience that you can’t get from just watching videos. This project helped me build confidence in diagnosing and solving hardware issues, which is directly relevant to IT support roles.
 
-## Build Photos
+## Build Photo
 
-![PC Build](./images/IMG_0938.HEIC)
+![PC Build](./images/pc_build.jpg)
